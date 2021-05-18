@@ -1,17 +1,19 @@
-![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)
-![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
-![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
-![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-
 # Hyper-parameter Tuning library
 
-![CV logo](https://github.com/balavenkatesh3322/hyperparameter_tuning/blob/master/logo.jpg)
+![CV logo](https://github.com/piyushpathak03/Hyperparameter-Tuning-/blob/main/logo.jpg)
 
 ## What is Hyper-parameter Tuning?
 Parameters which define the model architecture are referred to as hyperparameters and thus this process of searching for the ideal model architecture is referred to as hyperparameter tuning.
+Hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are learned.
 
 For instance,
+The penalty in Logistic Regression Classifier i.e. L1 or L2 regularization
+The learning rate for training a neural network.
+The C and sigma hyperparameters for support vector machines.
+The k in k-nearest neighbors.
 How many trees should I include in my random forest?
+Regularization parameter?
+Batch size?
 How many neurons should I have in my neural network layer?
 How many layers should I have in my neural network?
 
