@@ -1,19 +1,12 @@
 # Hyper-parameter Tuning library
 
-![CV logo](https://github.com/piyushpathak03/Hyperparameter-Tuning-/blob/main/logo.jpg)
+![CV logo](https://github.com/piyushpathak03/hyperparameter_tuning/blob/master/logo.jpg)
 
 ## What is Hyper-parameter Tuning?
 Parameters which define the model architecture are referred to as hyperparameters and thus this process of searching for the ideal model architecture is referred to as hyperparameter tuning.
-Hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are learned.
 
 For instance,
-The penalty in Logistic Regression Classifier i.e. L1 or L2 regularization
-The learning rate for training a neural network.
-The C and sigma hyperparameters for support vector machines.
-The k in k-nearest neighbors.
 How many trees should I include in my random forest?
-Regularization parameter?
-Batch size?
 How many neurons should I have in my neural network layer?
 How many layers should I have in my neural network?
 
@@ -49,10 +42,6 @@ How many layers should I have in my neural network?
 | [test-tube](https://github.com/williamFalcon/test-tube ) | Test tube is a python library to track and parallelize hyperparameter search for Deep Learning and ML experiments.   | `General`
 | [Determined]( https://github.com/determined-ai/determined)  | Determined helps deep learning teams train models more quickly, easily share GPU resources, and effectively collaborate.   | `General`
 
-
-## Contributions
-Your contributions are always welcome!!
-Please have a look at `contributing.md`
 
 ## About me
 
