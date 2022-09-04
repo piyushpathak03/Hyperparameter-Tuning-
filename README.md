@@ -7,6 +7,7 @@ Parameters which define the model architecture are referred to as hyperparameter
 
 For instance,
 How many trees should I include in my random forest?
+How to select Alpha, Delta values?
 How many neurons should I have in my neural network layer?
 How many layers should I have in my neural network?
 
