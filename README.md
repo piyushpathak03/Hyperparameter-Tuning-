@@ -1,4 +1,4 @@
-# Hyper-parameter Tuning library
+# Multiple Hyper-parameter Tuning library
 
 ![CV logo](https://github.com/piyushpathak03/hyperparameter_tuning/blob/master/logo.jpg)
 
